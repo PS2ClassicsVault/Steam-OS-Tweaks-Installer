@@ -18,6 +18,6 @@ To reverse the tweaks reapeat the same steps as you're installing the tweaks but
 
 `sudo bash uninstall_tweaks.sh`
 
-Once the uninstaller has completed, rebbot your device to complete uninstallation.
+Once the uninstaller has completed, reboot your device to complete uninstallation.
 
 ## NOTICE: I am not responsible if anything happens to your device(s) from using this script, use this at your own risk.
