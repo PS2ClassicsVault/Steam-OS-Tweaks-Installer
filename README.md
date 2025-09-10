@@ -10,7 +10,7 @@ To install the tweaks download files and open a terminal in the folder the tweak
 
 `sudo bash steamos_tweaks.sh`
 
-Once it has finished, reboot your device.
+Once it has finished, reboot your device to complete installation.
 
 
 ## Reverting the tweaks Instructions:
